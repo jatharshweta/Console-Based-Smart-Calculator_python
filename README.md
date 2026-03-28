@@ -8,3 +8,5 @@ A simple command-line calculator that performs basic arithmetic operations.
 - Subtraction
 - Multiplication
 - Division
+- Power
+- Modulus
